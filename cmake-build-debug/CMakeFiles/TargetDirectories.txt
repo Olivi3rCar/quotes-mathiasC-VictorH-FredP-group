@@ -1,0 +1,3 @@
+C:/Users/victo/CLionProjects/quotes-mathiasC-VictorH-FredP-group/cmake-build-debug/CMakeFiles/quotes_mathiasC_VictorH_FredP_group.dir
+C:/Users/victo/CLionProjects/quotes-mathiasC-VictorH-FredP-group/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/victo/CLionProjects/quotes-mathiasC-VictorH-FredP-group/cmake-build-debug/CMakeFiles/rebuild_cache.dir

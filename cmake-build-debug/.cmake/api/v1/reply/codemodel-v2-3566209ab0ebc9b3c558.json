@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "quotes_mathiasC_VictorH_FredP_group",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "quotes_mathiasC_VictorH_FredP_group::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-quotes_mathiasC_VictorH_FredP_group-Debug-3f500a689c1903382dd2.json",
+					"name" : "quotes_mathiasC_VictorH_FredP_group",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/victo/CLionProjects/quotes-mathiasC-VictorH-FredP-group/cmake-build-debug",
+		"source" : "C:/Users/victo/CLionProjects/quotes-mathiasC-VictorH-FredP-group"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
